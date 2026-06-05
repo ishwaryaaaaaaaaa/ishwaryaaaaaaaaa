@@ -47,7 +47,7 @@ I'm deeply curious about the **theoretical foundations of AI and ML** — from l
 ### Job Hunter Crew | CrewAI, Groq, FastAPI, Playwright, Gmail API, Serper 
 
 
->Built a multi-agent system using CrewAI orchestrating specialized agents (Scout, Scribe) across three application pathways — early-stage startups, research ----professors, and big-tech roles — served through a FastAPI backend with a custom web UI.
+- Built a multi-agent system using CrewAI orchestrating specialized agents (Scout, Scribe) across three application pathways — early-stage startups, research ----professors, and big-tech roles — served through a FastAPI backend with a custom web UI.
 -Engineered a Playwright browser-automation tool to auto-fill simple application forms with the resume and cover letter (left for user review/submission), and integrated the Gmail API (OAuth2) to generate review-ready outreach email drafts.
 -Powered generation with Llama 3.3 70B via Groq and live web search via Serper; implemented sequential task pipelines with context-passing between agents and per-lane tool routing (form-fill, email-draft, or link compilation).
 -
