@@ -2,7 +2,7 @@
 <div align="center">
 
 ```
-                                        ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦
+✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦
 ```
 
 #  Ishwarya Mohan
@@ -10,7 +10,7 @@
 ### ✦ AI/ML Engineer · Backend Developer · IIT Kharagpur ✦
 
 ```
-                                         ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦
+✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦
 ```
 
 ![IIT Kharagpur](https://img.shields.io/badge/🎓_IIT_Kharagpur-FBEAF0?style=for-the-badge&labelColor=F4C0D1&color=FBEAF0&logoColor=993556)
@@ -34,7 +34,7 @@
 
 I'm a Metallurgical & Materials Engineering student at IIT Kharagpur who found her passion in building intelligent systems. From production-grade RAG pipelines to real-time AI agents — I love turning complex ideas into things that actually work.
 
-I'm deeply curious about the **theoretical foundations of AI and ML** — from loss functions and probability theory to the math behind transformers. Hackathons are my favourite way to **learn fast and build fearlessly**. Currently diving into open source. ✨
+I'm deeply curious about the **theoretical foundations of AI and ML** — from loss functions and probability theory to the math behind transformers. Hackathons are my favourite way to **learn fast and build fearlessly**. Currently diving into open source. apart from all this ,  I love to dance ✨
 
 
 
