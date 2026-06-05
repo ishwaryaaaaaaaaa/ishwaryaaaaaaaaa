@@ -2,15 +2,15 @@
 <div align="center">
 
 ```
-✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦
+             ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦
 ```
 
-# 🌸 Ishwarya Mohan
+#  Ishwarya Mohan
 
 ### ✦ AI/ML Engineer · Backend Developer · IIT Kharagpur ✦
 
 ```
-✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦
+               ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦
 ```
 
 ![IIT Kharagpur](https://img.shields.io/badge/🎓_IIT_Kharagpur-FBEAF0?style=for-the-badge&labelColor=F4C0D1&color=FBEAF0&logoColor=993556)
