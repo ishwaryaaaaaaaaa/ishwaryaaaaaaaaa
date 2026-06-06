@@ -115,7 +115,7 @@ I'm deeply curious about the **theoretical foundations of AI and ML** — from l
 
 - 🔨 Building **LexAI** 
 - 📖 Deep-diving into theoretical AI/ML foundations
-- 🌱 Starting my open source journey with **GSSoC 2026**
+- 🌱 Starting my open source journey with
 - 💜 Learning to contribute to AI/ML tooling repos
 
 ---
